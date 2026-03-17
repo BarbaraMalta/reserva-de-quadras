@@ -55,7 +55,9 @@ Para realizar minhas aulas privadas de esportes ou praticar com amigos e/ou fam�
 
 ### Cenário 6: Visualizar todas as reservas disponíveis
 **Dado** que o administrador esteja autenticado
-**E** acesse a aba de reservas
-**Quando** selecionar a quadra que deseja verificar
-**Então** o sistema exibirá todo o histórico de reservas realizadas no mês
 
+**E** acesse a aba de reservas
+
+**Quando** selecionar a quadra que deseja verificar
+
+**Então** o sistema exibirá todo o histórico de reservas realizadas no mês
