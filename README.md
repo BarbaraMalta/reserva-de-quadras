@@ -50,3 +50,12 @@ Para realizar minhas aulas privadas de esportes ou praticar com amigos e/ou fam�
 **Quando** cancelar uma das reservas  
 **Então** o sistema removerá a reserva do perfil do morador com sucesso  
 **E** tornará a data e horário disponíveis de volta para os demais moradores  
+
+---
+
+### Cenário 6: Visualizar todas as reservas disponíveis
+**Dado** que o administrador esteja autenticado
+**E** acesse a aba de reservas
+**Quando** selecionar a quadra que deseja verificar
+**Então** o sistema exibirá todo o histórico de reservas realizadas no mês
+
